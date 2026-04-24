@@ -1,8 +1,3 @@
-[![GitHub stars](https://img.shields.io/github/stars/debnsuma/fcc-ai-engineering-aws?color=blue&style=flat-square)](https://github.com/debnsuma/fcc-ai-engineering-aws/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/debnsuma/fcc-ai-engineering-aws?color=green&style=flat-square)](https://github.com/debnsuma/fcc-ai-engineering-aws/network/members)
-[![GitHub watchers](https://img.shields.io/github/watchers/debnsuma/fcc-ai-engineering-aws?color=red&style=flat-square)](https://github.com/debnsuma/fcc-ai-engineering-aws/watchers)
-[![GitHub followers](https://img.shields.io/github/followers/debnsuma?color=yellow&style=flat-square)](https://github.com/debnsuma?tab=followers)
-
 
 ![Introduction](img/intro.png)
 
