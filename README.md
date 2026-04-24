@@ -62,9 +62,9 @@ By the end of this course, you will be able to:
 
 1. **Clone & Setup**
    ```bash
-   git clone https://github.com/debnsuma/fcc-ai-engineering-aws.git
+   git clone https://github.com/rabdul585/RAG_Amazonbedrock.git
 
-   cd fcc-ai-engineering-aws
+   
    ```
 
 2. **Install Dependencies**
